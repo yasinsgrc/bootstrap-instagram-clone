@@ -1,2 +1,8 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+## Kodluyoruz Bootstrap homework 2 
+
+### instagram Bootstrap Clone
+
+
+
+ 
+ 
